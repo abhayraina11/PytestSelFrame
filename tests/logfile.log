@@ -1,0 +1,93 @@
+2023-11-20 16:51:56,180 :INFO : test_e2e :Getting all the card titles
+2023-11-20 16:51:56,264 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:51:56,283 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:51:56,302 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:51:56,321 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:51:56,585 :INFO : test_e2e :Entering country name as IND
+2023-11-20 16:52:02,482 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-20 16:58:51,411 :INFO : test_formSubmission :Firstname is Rahul
+2023-11-20 16:58:53,409 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-20 16:58:53,409 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-20 16:59:05,712 :INFO : test_e2e :Getting all the card titles
+2023-11-20 16:59:05,785 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:59:05,841 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:59:05,866 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:59:05,892 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 16:59:06,182 :INFO : test_e2e :Entering country name as IND
+2023-11-20 16:59:11,926 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-20 17:10:33,057 :INFO : test_formSubmission :Firstname is Rahul
+2023-11-20 17:10:33,846 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-20 17:10:33,846 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-20 17:10:42,981 :INFO : test_e2e :Getting all the card titles
+2023-11-20 17:10:43,038 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 17:10:43,066 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 17:10:43,089 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 17:10:43,111 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-20 17:10:43,378 :INFO : test_e2e :Entering country name as IND
+2023-11-20 17:10:49,146 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-21 00:50:25,467 :INFO : test_formSubmission :Firstname is Rahul
+2023-11-21 00:50:27,662 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:50:27,662 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:50:40,216 :INFO : test_e2e :Getting all the card titles
+2023-11-21 00:50:40,269 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:50:40,295 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:50:40,320 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:50:40,338 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:50:40,655 :INFO : test_e2e :Entering country name as IND
+2023-11-21 00:50:46,630 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-21 00:51:31,160 :INFO : test_formSubmission :Firstname is Rahul
+2023-11-21 00:51:32,267 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:51:32,267 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:51:41,390 :INFO : test_e2e :Getting all the card titles
+2023-11-21 00:51:41,454 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:51:41,475 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:51:41,494 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:51:41,513 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:51:41,722 :INFO : test_e2e :Entering country name as IND
+2023-11-21 00:51:47,503 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-21 00:53:45,034 :INFO : test_formSubmission :Firstname is Rahul
+2023-11-21 00:53:45,846 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:53:45,846 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:54:04,981 :INFO : test_e2e :Getting all the card titles
+2023-11-21 00:54:05,039 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:54:05,067 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:54:05,092 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:54:05,117 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:54:05,307 :INFO : test_e2e :Entering country name as IND
+2023-11-21 00:54:11,297 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-21 00:56:12,574 :INFO : test_e2e :Getting all the card titles
+2023-11-21 00:56:12,637 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:56:12,666 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:56:12,692 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:56:12,719 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:56:12,921 :INFO : test_e2e :Entering country name as IND
+2023-11-21 00:56:18,399 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-21 00:57:31,902 :INFO : test_formSubmission :Firstname is Rahul
+2023-11-21 00:57:32,813 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:57:32,813 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 00:57:43,171 :INFO : test_e2e :Getting all the card titles
+2023-11-21 00:57:43,264 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:57:43,399 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:57:43,416 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:57:43,435 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 00:57:43,639 :INFO : test_e2e :Entering country name as IND
+2023-11-21 00:57:49,274 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-21 01:27:58,679 :INFO : test_formSubmission :Firstname is Rahul
+2023-11-21 01:28:00,215 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 01:28:00,215 :INFO : test_formSubmission :Firstname is Anshika
+2023-11-21 01:28:20,886 :INFO : test_e2e :Getting all the card titles
+2023-11-21 01:28:20,932 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 01:28:20,948 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 01:28:20,961 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 01:28:20,974 :INFO : test_e2e :Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur! Lorem ipsum dolor sit amet.
+2023-11-21 01:28:21,503 :INFO : test_e2e :Entering country name as IND
+2023-11-21 01:28:27,872 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
