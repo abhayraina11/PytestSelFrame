@@ -17,7 +17,7 @@ class TestOne(BaseClass):
         log = self.getLogger()
         homePage = HomePage(self.driver)
         checkOutPage = homePage.shopItems()
-        log.info("Getting all the card titles")
+        log.info("Successfully Getting all the card titles")
         products = checkOutPage.getCardTitles()
         for product in products:
             productName = product.find_element(By.XPATH, "div/p").text
